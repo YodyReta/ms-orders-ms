@@ -10,6 +10,8 @@
 .windsurf
 .windsurf/
 
+.env
+
 # Logs
 logs
 *.log

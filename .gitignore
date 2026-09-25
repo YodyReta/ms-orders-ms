@@ -2,9 +2,13 @@
 /dist
 /node_modules
 /postgres
-/.agents
-/.claude
-/.windsurf
+/test
+.agents
+.agents/
+.claude
+.claude/
+.windsurf
+.windsurf/
 
 # Logs
 logs
